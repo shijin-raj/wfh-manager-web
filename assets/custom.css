@@ -1,0 +1,4 @@
+.borderline{
+		background-image: linear-gradient(to right,red,orange,yellow,green,blue,indigo,violet);
+		height: 3px;
+	}

@@ -1,0 +1,6 @@
+{
+    "user_activity": {
+        "SH001": { "is_online": true },
+        "SH002": { "is_online": false }
+    }
+}
